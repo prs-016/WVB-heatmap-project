@@ -1,0 +1,2 @@
+pandas
+# ffmpeg is also required but must be installed on the system (e.g. brew install ffmpeg, conda install ffmpeg, or download zip)
